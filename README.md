@@ -7,7 +7,7 @@
 - 🌱 I'm learning more about **Deep Learning** and **Data Engineering** to expand my skill set.
 - 👯 I’m open to collaborating on **AI, Machine Learning, Data Science**, and **Full-stack development** projects.
 - 💬 Ask me about **Python**, **Machine Learning**, **Data Science**, **AI**, **SEO**, or anything tech-related.
-- 📫 How to reach me: [Your Email or LinkedIn URL]
+- 📫 How to reach me: [connectmadhan01@gmail.com]
 - 😄 Pronouns: He/Him
 
 ## 🛠️ Skills
@@ -20,15 +20,6 @@
 - **Database Management:** MySQL, SQLite, PostgreSQL
 - **Tools & Technologies:** Jupyter, Streamlit, Git, Docker
 
-## 📌 My Projects
-
-- **[Project 1 Name]** – Description of your project (e.g., Diabetes Prediction Web Application built with Streamlit and Python).
-- **[Project 2 Name]** – Description of your project (e.g., Gold Price Prediction using Machine Learning).
-- **[Project 3 Name]** – Description of your project (e.g., Heart Attack Prediction using Classification Models).
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 🤝 Connect with Me
 
