@@ -14,6 +14,7 @@
 - 💬 Ask me about **Python**, **Machine Learning**, **Data Science**, **AI**, **SEO**, or anything tech-related.
 - 📫 How to reach me: [connectmadhan01@gmail.com]
 - 👨‍💻 All of my projects are available at [https://github.com/Madhan0102](https://github.com/Madhan0102)
+- 📄 Know about my experiences [https://portfoliomadhan-jk4kd6b5lzyro9nwyn3tml.streamlit.app/](https://portfoliomadhan-jk4kd6b5lzyro9nwyn3tml.streamlit.app/)
 - 😄 Pronouns: He/Him
 
 ## 🛠️ Skills
@@ -49,7 +50,6 @@ Thanks for visiting my GitHub profile! 🚀
 
 - 📫 How to reach me **connectmadhan01@gmail.com**
 
-- 📄 Know about my experiences [https://portfoliomadhan-jk4kd6b5lzyro9nwyn3tml.streamlit.app/](https://portfoliomadhan-jk4kd6b5lzyro9nwyn3tml.streamlit.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
