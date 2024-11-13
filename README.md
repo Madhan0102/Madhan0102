@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Madhan Kumar N</h1>
 <h3 align="center">"I’m interested in becoming a Data Scientist, AI Developer, Machine Learning Enthusiast, Data Analyst, and Full-stack Developer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhan0102&label=Profile%20views&color=0e75b6&style=flat" alt="madhan0102" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhan0102" alt="madhan0102" /></a> </p>
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **AI Development** and **Machine Learning** projects.
@@ -26,10 +30,6 @@
 
 Thanks for visiting my GitHub profile! 🚀
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhan0102&label=Profile%20views&color=0e75b6&style=flat" alt="madhan0102" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhan0102" alt="madhan0102" /></a> </p>
 
 
 - 🔭 I’m currently working on [Car Price Prediction App](https://carpricepredictions-xkiumszqywxhrznnwd6nrt.streamlit.app/)
