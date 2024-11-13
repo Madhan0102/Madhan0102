@@ -74,11 +74,5 @@
 </div>
 
 ###
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/madhan0102"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="madhan0102" /></a><a href="https://ko-fi.com/madhan0102"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="madhan0102" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhan0102&show_icons=true&locale=en&layout=compact" alt="madhan0102" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhan0102&show_icons=true&locale=en" alt="madhan0102" /></p>
 
 Thanks for visiting my GitHub profile! 🚀
