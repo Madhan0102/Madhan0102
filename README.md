@@ -21,12 +21,6 @@
 - **Tools & Technologies:** Jupyter, Streamlit, Git, Docker
 
 
-## 🤝 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Website/Portfolio](https://yourwebsite.com)
-- [Email](mailto:your-email@example.com)
 
 ---
 
