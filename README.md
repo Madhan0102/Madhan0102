@@ -3,6 +3,31 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhan0102&label=Profile%20views&color=0e75b6&style=flat" alt="madhan0102" /> </p>
 
+## 🚀 About Me
+
+- 🔭 I’m currently working on **AI Development** and **Machine Learning** projects.
+- 🌱 I'm learning more about **Deep Learning** and **Data Engineering** to expand my skill set.
+- 👯 I’m open to collaborating on **AI, Machine Learning, Data Science**, and **Full-stack development** projects.
+- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6285868110096074432?hl=en&tab=jj](https://www.blogger.com/blog/posts/6285868110096074432?hl=en&tab=jj)
+- 💬 Ask me about **Python**, **Machine Learning**, **Data Science**, **AI**, **SEO**, or anything tech-related.
+- 📫 How to reach me: [connectmadhan01@gmail.com]
+- 👨‍💻 All of my projects are available at [https://github.com/Madhan0102](https://github.com/Madhan0102)
+- 📄 Know about my experiences [https://portfoliomadhan-jk4kd6b5lzyro9nwyn3tml.streamlit.app/](https://portfoliomadhan-jk4kd6b5lzyro9nwyn3tml.streamlit.app/)
+- 😄 Pronouns: He/Him
+
+## 🛠️ Skills
+
+- **Programming Languages:** Python, C, C++, JavaScript, PHP
+- **Web Development:** HTML, CSS, WordPress, Full-stack development (Backend & Frontend)
+- **Data Science:** Pandas, NumPy, Power BI, Data Visualization
+- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch
+- **SEO & Web Optimization:** SEO strategies, keyword analysis, WordPress development
+- **Database Management:** MySQL, SQLite, PostgreSQL
+- **Tools & Technologies:** Jupyter, Streamlit, Git, Docker
+
+
+
+---
 
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"  />
@@ -46,31 +71,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhan0102" alt="madhan0102" /></a> </p>
 
-## 🚀 About Me
 
-- 🔭 I’m currently working on **AI Development** and **Machine Learning** projects.
-- 🌱 I'm learning more about **Deep Learning** and **Data Engineering** to expand my skill set.
-- 👯 I’m open to collaborating on **AI, Machine Learning, Data Science**, and **Full-stack development** projects.
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6285868110096074432?hl=en&tab=jj](https://www.blogger.com/blog/posts/6285868110096074432?hl=en&tab=jj)
-- 💬 Ask me about **Python**, **Machine Learning**, **Data Science**, **AI**, **SEO**, or anything tech-related.
-- 📫 How to reach me: [connectmadhan01@gmail.com]
-- 👨‍💻 All of my projects are available at [https://github.com/Madhan0102](https://github.com/Madhan0102)
-- 📄 Know about my experiences [https://portfoliomadhan-jk4kd6b5lzyro9nwyn3tml.streamlit.app/](https://portfoliomadhan-jk4kd6b5lzyro9nwyn3tml.streamlit.app/)
-- 😄 Pronouns: He/Him
-
-## 🛠️ Skills
-
-- **Programming Languages:** Python, C, C++, JavaScript, PHP
-- **Web Development:** HTML, CSS, WordPress, Full-stack development (Backend & Frontend)
-- **Data Science:** Pandas, NumPy, Power BI, Data Visualization
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch
-- **SEO & Web Optimization:** SEO strategies, keyword analysis, WordPress development
-- **Database Management:** MySQL, SQLite, PostgreSQL
-- **Tools & Technologies:** Jupyter, Streamlit, Git, Docker
-
-
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
