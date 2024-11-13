@@ -31,26 +31,6 @@
 
 ---
 
-Thanks for visiting my GitHub profile! 🚀
-
-
-
-- 🔭 I’m currently working on [Car Price Prediction App](https://carpricepredictions-xkiumszqywxhrznnwd6nrt.streamlit.app/)
-
-- 🌱 I’m currently learning **Python,Data Science,Machine Learning,Artificial intelligence.**
-
-- 👯 I’m looking to collaborate on [PowerBI-Projects-For-Data-Analysis](https://github.com/Madhan0102/PowerBI-Projects-For-Data-Analysis)
-
-- 🤝 I’m looking for help with [Spectra Plast Project](https://www.spectraplast.in/)
-
-
-
-
-- 💬 Ask me about **"I have strong skills in Python programming, Data Science, Machine Learning, and Artificial Intelligence, with hands-on experience in developing projects and applying algorithms to solve real-world problems."**
-
-- 📫 How to reach me **connectmadhan01@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/madhan0102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhan0102" height="30" width="40" /></a>
@@ -70,3 +50,5 @@ Thanks for visiting my GitHub profile! 🚀
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhan0102&show_icons=true&locale=en&layout=compact" alt="madhan0102" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhan0102&show_icons=true&locale=en" alt="madhan0102" /></p>
+
+Thanks for visiting my GitHub profile! 🚀
