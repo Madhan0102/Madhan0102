@@ -13,6 +13,7 @@
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6285868110096074432?hl=en&tab=jj](https://www.blogger.com/blog/posts/6285868110096074432?hl=en&tab=jj)
 - 💬 Ask me about **Python**, **Machine Learning**, **Data Science**, **AI**, **SEO**, or anything tech-related.
 - 📫 How to reach me: [connectmadhan01@gmail.com]
+- 👨‍💻 All of my projects are available at [https://github.com/Madhan0102](https://github.com/Madhan0102)
 - 😄 Pronouns: He/Him
 
 ## 🛠️ Skills
@@ -41,7 +42,6 @@ Thanks for visiting my GitHub profile! 🚀
 
 - 🤝 I’m looking for help with [Spectra Plast Project](https://www.spectraplast.in/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Madhan0102](https://github.com/Madhan0102)
 
 
 
