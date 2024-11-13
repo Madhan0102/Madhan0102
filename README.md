@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on **AI Development** and **Machine Learning** projects.
 - 🌱 I'm learning more about **Deep Learning** and **Data Engineering** to expand my skill set.
 - 👯 I’m open to collaborating on **AI, Machine Learning, Data Science**, and **Full-stack development** projects.
+- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6285868110096074432?hl=en&tab=jj](https://www.blogger.com/blog/posts/6285868110096074432?hl=en&tab=jj)
 - 💬 Ask me about **Python**, **Machine Learning**, **Data Science**, **AI**, **SEO**, or anything tech-related.
 - 📫 How to reach me: [connectmadhan01@gmail.com]
 - 😄 Pronouns: He/Him
@@ -42,7 +43,7 @@ Thanks for visiting my GitHub profile! 🚀
 
 - 👨‍💻 All of my projects are available at [https://github.com/Madhan0102](https://github.com/Madhan0102)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6285868110096074432?hl=en&tab=jj](https://www.blogger.com/blog/posts/6285868110096074432?hl=en&tab=jj)
+
 
 - 💬 Ask me about **"I have strong skills in Python programming, Data Science, Machine Learning, and Artificial Intelligence, with hands-on experience in developing projects and applying algorithms to solve real-world problems."**
 
