@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhan Kumar N</h1>
 <h3 align="center">"I’m interested in becoming a Data Scientist, AI Developer, Machine Learning Enthusiast, Data Analyst, and Full-stack Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhan0102&label=Profile%20views&color=0e75b6&style=flat" alt="madhan0102" /> </p>
-
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **AI Development** and **Machine Learning** projects.
@@ -67,7 +65,7 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/connectmadhan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/connectmadhan01" height="30" width="40" /></a>
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhan0102&label=Profile%20views&color=0e75b6&style=flat" alt="madhan0102" /> </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Madhan0102&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhan0102&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
