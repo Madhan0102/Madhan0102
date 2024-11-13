@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhan Kumar N</h1>
 <h3 align="center">"I’m interested in becoming a Data Scientist, AI Developer, Machine Learning Enthusiast, Data Analyst, and Full-stack Developer.</h3>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
