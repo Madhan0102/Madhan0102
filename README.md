@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Madhan0102/Madhan0102/output/snake.svg" alt="Snake animation" />
+<img src="https://cdn.vectorstock.com/i/500p/08/82/software-developer-character-programmer-vector-26310882.jpg" alt="Snake animation" />
 
 ###
 
