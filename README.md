@@ -1,5 +1,49 @@
 <h1 align="center">Hi 👋, I'm Madhan Kumar N</h1>
 <h3 align="center">"I’m interested in becoming a Data Scientist, AI Developer, Machine Learning Enthusiast, Data Analyst, and Full-stack Developer.</h3>
+# Hello, I'm [Your Name] 👋
+
+Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **AI Developer**, and **Machine Learning Enthusiast** with experience in **Full-Stack Development** and **SEO Development**. I love solving complex problems, analyzing data, and building innovative solutions across various domains.
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **AI Development** and **Machine Learning** projects.
+- 🌱 I'm learning more about **Deep Learning** and **Data Engineering** to expand my skill set.
+- 👯 I’m open to collaborating on **AI, Machine Learning, Data Science**, and **Full-stack development** projects.
+- 💬 Ask me about **Python**, **Machine Learning**, **Data Science**, **AI**, **SEO**, or anything tech-related.
+- 📫 How to reach me: [Your Email or LinkedIn URL]
+- 😄 Pronouns: He/Him
+
+## 🛠️ Skills
+
+- **Programming Languages:** Python, C, C++, JavaScript, PHP
+- **Web Development:** HTML, CSS, WordPress, Full-stack development (Backend & Frontend)
+- **Data Science:** Pandas, NumPy, Power BI, Data Visualization
+- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch
+- **SEO & Web Optimization:** SEO strategies, keyword analysis, WordPress development
+- **Database Management:** MySQL, SQLite, PostgreSQL
+- **Tools & Technologies:** Jupyter, Streamlit, Git, Docker
+
+## 📌 My Projects
+
+- **[Project 1 Name]** – Description of your project (e.g., Diabetes Prediction Web Application built with Streamlit and Python).
+- **[Project 2 Name]** – Description of your project (e.g., Gold Price Prediction using Machine Learning).
+- **[Project 3 Name]** – Description of your project (e.g., Heart Attack Prediction using Classification Models).
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Website/Portfolio](https://yourwebsite.com)
+- [Email](mailto:your-email@example.com)
+
+---
+
+Thanks for visiting my GitHub profile! 🚀
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhan0102&label=Profile%20views&color=0e75b6&style=flat" alt="madhan0102" /> </p>
 
