@@ -2,7 +2,6 @@
 <h3 align="center">"I’m interested in becoming a Data Scientist, AI Developer, Machine Learning Enthusiast, Data Analyst, and Full-stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhan0102&label=Profile%20views&color=0e75b6&style=flat" alt="madhan0102" /> </p>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
