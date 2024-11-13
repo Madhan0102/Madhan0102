@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhan Kumar N</h1>
 <h3 align="center">"I’m interested in becoming a Data Scientist, AI Developer, Machine Learning Enthusiast, Data Analyst, and Full-stack Developer.</h3>
-# Hello, I'm [Your Name] 👋
-
-Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **AI Developer**, and **Machine Learning Enthusiast** with experience in **Full-Stack Development** and **SEO Development**. I love solving complex problems, analyzing data, and building innovative solutions across various domains.
 
 ## 🚀 About Me
 
