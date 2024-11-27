@@ -14,7 +14,7 @@
 - 😄 Pronouns: He/Him
 
 ## 🛠️ Skills
-<img align="right" height="150" src="https://www.sherpadesk.com/hubfs/Blog%20Images/7%20Free%20Online%20Skill%20Building%20Resources%20for%20IT%20Pros/ANIM_7-Free-Online-Skill_Featured-img.gif">
+<img align="right" height="100" src="https://www.sherpadesk.com/hubfs/Blog%20Images/7%20Free%20Online%20Skill%20Building%20Resources%20for%20IT%20Pros/ANIM_7-Free-Online-Skill_Featured-img.gif">
 
 
 - **Programming Languages:** Python, C, C++, JavaScript, PHP
